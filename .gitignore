@@ -1,4 +1,13 @@
 /node_modules
+/.git/
+/.github/
+/**/Thumbs.db
+/**/*.DS_Store
+/**/package-lock.json
+/**/debug.log
+/dist/
+/**/*.zip
+/**/*.rar
 /public/build
 /public/hot
 /public/storage
